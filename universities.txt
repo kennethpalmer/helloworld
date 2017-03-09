@@ -1,3 +1,6 @@
 harvard
 princeton
 yale
+columbia
+dartmouth
+cornell
